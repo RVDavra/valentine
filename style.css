@@ -123,9 +123,12 @@ html {
         opacity: 0;
     }
     25% {
-        opacity: 1;
+        opacity: 0;
     }
     50% {
+        opacity: 1;
+    }
+    75% {
         opacity: 0;
     }
     100% {
